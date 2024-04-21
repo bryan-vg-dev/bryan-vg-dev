@@ -13,7 +13,7 @@ const bryan-vg-dev = {
 ```
 [![bryan-vg-dev's github stats](https://github-readme-stats.vercel.app/api?username=bryan-vg-dev)](https://github-readme-stats.vercel.app/api?username=bryan-vg-dev)
 
-You can find me 🌎:
+### You can find me 🌎:
 (add social medias)
 <!--
 **bryan-vg-dev/bryan-vg-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
