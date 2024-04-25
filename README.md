@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center"><bold>Hi 👋, I'm Bryan</bold></h1>
+<h1 align="left"><b>Hi 👋, I'm Bryan</b></h1>
 <h3 align="center">A random guy with a nice hair</h3>
 
 (add a photo)
@@ -11,7 +9,7 @@
 
 - 💬 Ask me about **react, javascript, typescript, html, css and tailwind.**
 
-- 📫 How to reach me **brianvg1324@gmail.com**
+- 📫 How to reach me <a href="brianvg1324@gmail.com"><b>here.</b></a>
 
 - ⚡ Fun fact **The earth is flat, exactly like my ex.**
 
