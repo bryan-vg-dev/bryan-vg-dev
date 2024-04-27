@@ -1,13 +1,11 @@
 <h1 align="left"><b>Hi 👋, I'm Bryan</b></h1>
-<h3 align="center">A random guy with a nice hair</h3>
+<h3 align="center">A Frontend developer</h3>
 
-(add a photo)
+- <p> 💼 I work with **react, javascript, typescript, html, css and tailwind.**
 
 - <p>🔭 I’m currently working on a website for personnel administration, based on my personal experience and some books by Brian Tracy among other writers and businessmen **Maps** </p>
 
 - <p>🌱 I’m currently learning **Redux and Vue** </p>
-
-- <p> 💬 Ask me about **react, javascript, typescript, html, css and tailwind.**
 
 - <p> 📫 How to reach me <a href="brianvg1324@gmail.com"><b>here.</b></a> </p>
 
