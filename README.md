@@ -3,15 +3,15 @@
 
 (add a photo)
 
-- 🔭 I’m currently working on a website for personnel administration, based on my personal experience and some books by Brian Tracy among other writers and businessmen **Maps**
+- <p>🔭 I’m currently working on a website for personnel administration, based on my personal experience and some books by Brian Tracy among other writers and businessmen **Maps** </p>
 
-- 🌱 I’m currently learning **C# and .NET**
+- <p>🌱 I’m currently learning **Redux and Vue** </p>
 
-- 💬 Ask me about **react, javascript, typescript, html, css and tailwind.**
+- <p> 💬 Ask me about **react, javascript, typescript, html, css and tailwind.**
 
-- 📫 How to reach me <a href="brianvg1324@gmail.com"><b>here.</b></a>
+- <p> 📫 How to reach me <a href="brianvg1324@gmail.com"><b>here.</b></a> </p>
 
-- ⚡ Fun fact **The earth is flat, exactly like my ex.**
+- <p> ⚡ Fun fact **The earth is flat, exactly like my ex.** </p>
 
 <h3 align="left"><bold> You can find me 🌎</bold>:<h3>
 <p align="left">(add social medias)</p>
