@@ -7,7 +7,7 @@
 
 - <p>🌱 I’m currently learning <b>Redux and Vue</b></p>
 
-- <p>🌎 You can find me <a href="brianvg1324@gmail.com"><b>here.</b></a> </p>
+- <p>🌎 You can find me <a href="mailto:brianvg1324@gmail.com"><b>here.</b></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
